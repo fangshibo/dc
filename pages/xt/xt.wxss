@@ -1,4 +1,9 @@
 /* pages/xt/xt.wxss */
+.xt{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
 .ss{
     display: flex;
     flex-direction: row;
@@ -23,4 +28,27 @@ overflow: auto;
     width: 200rpx;
     height: 100rpx;
     flex: 0 0 200rpx;
+}
+.th{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+    justify-content: flex-start;
+    align-items: flex-start;
+   
+  
+
+
+}
+.th view{
+   width:230rpx;
+   height: 100rpx;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border: 1px solid blue;
+   margin: 2px;
+   flex:0 0 235rpx;
+    
 }
