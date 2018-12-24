@@ -1,0 +1,26 @@
+/* pages/xt/xt.wxss */
+.ss{
+    display: flex;
+    flex-direction: row;
+    height: 100rpx;
+    width: 700rpx;
+
+}
+.th{
+    border: 1rpx solid blue;
+
+    padding: 2px;
+
+}
+.lc{
+display: flex;
+flex-direction: row;
+overflow: auto;
+
+
+}
+.lc button{
+    width: 200rpx;
+    height: 100rpx;
+    flex: 0 0 200rpx;
+}

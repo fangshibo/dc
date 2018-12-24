@@ -1,0 +1,27 @@
+<view class="xt" >
+    <view class="ss" >
+        <text class="" >输入台号：</text>
+            <view class="th" >
+                <input class="" value="" type="text"  confirm-type="search">
+                
+                 </input>
+            </view>
+        <button>搜索</button>
+    
+    </view>
+
+    <view class="lc" >
+        
+        <button>二楼</button>
+        <button>三楼</button>
+        <button>贵宾厅</button>
+        <button>阳光厅</button>
+        <button>阳光厅</button>
+        <button>阳光厅</button>
+        <button>阳光厅</button>
+            
+    </view>
+  
+   </view> 
+
+  

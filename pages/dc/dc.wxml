@@ -1,0 +1,28 @@
+<view class="container" >
+<view class="dc" hover-class="none" hover-stop-propagation="false">
+   <view class="dd" >
+    
+      
+   <image src="http://192.168.1.58/1.jpg" alt=""></image>
+   <text class="" >点餐</text>
+   </view>
+    <view class="qx" >
+    <image src="http://192.168.1.58/2.jpg" alt=""></image>
+    <text class="" >取消</text>
+      
+   
+   </view> 
+   <view class="dd" >
+   <image src="http://192.168.1.58/3.jpg" alt=""></image>
+    <text class="" >扣炖</text>
+      
+   
+   </view>
+</view>
+  
+
+
+  
+    
+</view>
+  

@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/xt/xt",
+    "pages/goods/goods",
+    "pages/xd/xd",
+    "pages/dc/dc",
+    "pages/index/index",
+    "pages/logs/logs"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "新阳光酒店点餐系统",
+    "navigationBarTextStyle": "black"
+  }
+}
